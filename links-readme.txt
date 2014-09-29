@@ -1,0 +1,1 @@
+thing1 mimicking a thing2
