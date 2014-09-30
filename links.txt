@@ -1,32 +1,40 @@
-crab sand http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ocypode_quadrata_%28Cahuita%29.jpg/640px-Ocypode_quadrata_%28Cahuita%29.jpg
-moth fly http://www.pestid.msu.edu/Portals/0/dnnPhotoGallery/1031/690.jpg
-moth spider http://whyevolutionistrue.files.wordpress.com/2013/03/capture13-470x529.jpg
-moth wasp http://2.bp.blogspot.com/_zCYIZSZEKT8/TOCBbVfFZvI/AAAAAAAAHyU/8PB_iF_cIcI/s1600/IMG_4443.JPG
-spider wasp http://www.pxleyes.com/images/contests/spiders-2/fullsize/Wasp-like-mimic-Spider-4ebb5d326799d.jpg
-spider ant http://bugguide.net/images/cache/YQ50CQ40H0HQORXQYR0Q3RSQL0XQORQQS060FR20H0XQBRYKTRQQH070FQLQTQJK9RJKVRM0JQJKUR40TQP0CRSQ.jpg
-toad forest-floor http://s.ngm.com/2009/08/mimicry/img/mimicry-toad-615.jpg
-crab kelp http://seamansadventures.com/yahoo_site_admin/assets/images/decorator_crab.104224746_std.jpg
-phasmid leaf http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/LeafInsect.jpg/230px-LeafInsect.jpg
-phasmid stick http://travel.mongabay.com/indonesia/600/kalimantan_9031.jpg
-phasmid leaf http://upload.wikimedia.org/wikipedia/commons/d/d5/Phyllium_bilobatum%2C_male_larva.jpg
-mantis ant http://farm3.static.flickr.com/2045/1789324016_d80452da73.jpg
-mantis leaf http://i.dailymail.co.uk/i/pix/2012/10/11/article-2216091-15730B0A000005DC-300_470x707.jpg
+crab sand http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ocypode_quadrata_%28Cahuita%29.jpg/640px-Ocypode_quadrata_%28Cahuita%29.jpg Ocypode quadrata
+fly moth http://www.pestid.msu.edu/Portals/0/dnnPhotoGallery/1031/690.jpg Clogmia albipunctata
+moth spider http://whyevolutionistrue.files.wordpress.com/2013/03/capture13-470x529.jpg Siamusotima aranea
+moth wasp http://2.bp.blogspot.com/_zCYIZSZEKT8/TOCBbVfFZvI/AAAAAAAAHyU/8PB_iF_cIcI/s1600/IMG_4443.JPG Isanthrene crabroniformis
+moth wasp http://upload.wikimedia.org/wikipedia/commons/7/7e/Horama_panthalon_-_dorsal_view.jpg Horama panthalon
+moth wasp http://upload.wikimedia.org/wikipedia/commons/f/f7/S_epilais_jucundissima.JPG Syntomeida epilais
+crab kelp http://hbdivegirl.com/wp-content/uploads/2010/10/Decorator-Crab.jpg Naxia tumida
+phasmid leaf http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/LeafInsect.jpg/230px-LeafInsect.jpg Phyllium bioculatum
+phasmid leaf http://upload.wikimedia.org/wikipedia/commons/d/d5/Phyllium_bilobatum%2C_male_larva.jpg Phyllium bilobatum
+mantis ant http://upload.wikimedia.org/wikipedia/commons/4/4e/Myrmecomantis_atra.jpg Myrmecomantis atra
+phasmid ant http://upload.wikimedia.org/wikipedia/commons/7/76/Extatosoma.tiaratum.hatching.1.jpg Extatosoma tiaratum
+mantis leaf http://upload.wikimedia.org/wikipedia/commons/6/6e/Choeradodis-sp.jpg Choeradodis rhombicollis
+katydid ant http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Macroxiphus_sp_cricket.jpg/320px-Macroxiphus_sp_cricket.jpg Macroxiphus nasicornis
+snake coral-snake http://upload.wikimedia.org/wikipedia/commons/2/20/Lampropeltis_triangulum_annulata.jpg Lampropeltis triangulum
+phasmid stick http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ctenomorpha_chronus02.jpg/258px-Ctenomorpha_chronus02.jpg Ctenomorpha chronus
+orchid fly http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ophrys_insectifera_flower.jpg/383px-Ophrys_insectifera_flower.jpg Ophrys insectifera
+mantis wasp http://upload.wikimedia.org/wikipedia/commons/c/ca/Mantispa_styriaca_%289566952168%29.jpg Mantispa styriaca
+beetle ant http://upload.wikimedia.org/wikipedia/commons/d/d8/Thanasimus_formicarius_2_bialowieza_forest_beentree.jpg Thanasimus formicarius
+beetle ant http://upload.wikimedia.org/wikipedia/commons/a/a3/Anthicidae_Anthelephila_cyanea_2012_10_02_8934.jpg Anthelephila cyanea
+mantis ant http://i271.photobucket.com/albums/jj133/Matt020593/P5100034.jpg Phyllocrania paradoxa
+orchid bee http://upload.wikimedia.org/wikipedia/commons/4/48/OphrysApifera.jpg Ophrys apifera
+spider ant http://upload.wikimedia.org/wikipedia/commons/f/fb/Myrmarachne_plataleoides_female_thailand.jpg Myrmarachne plataleoides
+
 mantis orchid http://www.origamicupcake.com/wp-content/uploads/2011/10/C_KAT_G-orchid-mantis.jpg
 mantis moss http://fc05.deviantart.net/fs71/f/2013/074/0/6/majangella_moultoni__moss_mantis_by_melvynyeo-d5sfxcz.jpg
 mantis wasp http://bogleech.com/nature/sitoid-mantidfly.jpg
 moth owl http://www.learnaboutbutterflies.com/Brahmaea%20japonica%207658-001h.jpg
 katydid leaf http://www.mongabay.com/images/honduras/fauna/insects/Leaf_Katydid_1.gif
 snake grass http://laststands.kennedywarne.com/wp-content/uploads/2009/07/snake-1-medium.jpg
-katydid flower http://media-3.web.britannica.com/eb-media/51/65451-004-8E055258.jpg 
-katydid ant http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Macroxiphus_sp_cricket.jpg/320px-Macroxiphus_sp_cricket.jpg
-snake coral-snake http://upload.wikimedia.org/wikipedia/commons/2/20/Lampropeltis_triangulum_annulata.jpg
-phasmid stick http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ctenomorpha_chronus02.jpg/258px-Ctenomorpha_chronus02.jpg
-orchid fly http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ophrys_insectifera_flower.jpg/383px-Ophrys_insectifera_flower.jpg
+katydid flower http://media-3.web.britannica.com/eb-media/51/65451-004-8E055258.jpg
 snake stick http://10rem.net/media/9376/pmb_black_rat_snake__generatedPreview.jpg
 snake forest-floor http://upload.wikimedia.org/wikipedia/commons/5/5b/Bitis_gabonica_rhinoceros.JPG
 tiger grass http://mrbarlow.files.wordpress.com/2010/07/tiger-camouflage.jpg
-snake sand http://images.nationalgeographic.com/wpf/media-live/photos/000/24d-in-sand-7_24668_600x450.jpg
-flounder sand http://3.bp.blogspot.com/--JDmlarY3G0/Tn5ENl2piBI/AAAAAAAAAGA/k3AStWYEvVE/s1600/camouflaged-flounder.jpg
+snake sand http://funninja.in/wp-content/uploads/2013/05/snake-diguised-in-sand-7_24668_600x450.jpg
+flounder sand http://upload.wikimedia.org/wikipedia/commons/5/56/Flounder_camo_md.jpg
+spider wasp http://www.pxleyes.com/images/contests/spiders-2/fullsize/Wasp-like-mimic-Spider-4ebb5d326799d.jpg
+toad forest-floor http://s.ngm.com/2009/08/mimicry/img/mimicry-toad-615.jpg
 lion grass http://farm1.staticflickr.com/33/63454737_586e15eb11.jpg
 cicada bark http://6legs2many.files.wordpress.com/2010/03/cicada.jpg
 flounder sand http://img.izismile.com//img/img2/20090114/bonus/1/animal_08.jpg
@@ -42,7 +50,7 @@ crab coral http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hyastenus_el
 caterpillar stick http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Biston_betularia.png/320px-Biston_betularia.png
 fly bee http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Syrphid_fly_Mallota_1.jpg/320px-Syrphid_fly_Mallota_1.jpg
 seahorse kelp http://upload.wikimedia.org/wikipedia/commons/f/f2/Leafy_Seadragon.jpg
-seahorse kelp http://24.media.tumblr.com/fa1eea6ae965314764f1d8cbd7985af1/tumblr_mn9bdg5B6T1s3yrubo1_1280.jpg
+seahorse kelp http://upload.wikimedia.org/wikipedia/commons/d/dc/Leafydragon.jpg
 moth dead-leaf http://b50ym1n8ryw31pmkr4671ui1c64.wpengine.netdna-cdn.com/wp-content/blogs.dir/11/files/2013/07/DeadLeafMoth-620x411.jpg
 moth wasp http://www.csse.monash.edu.au/~carlo/IMAGES/Wasp-Mimic-Cosmosoma-Erebidae-AWild-1.jpg
 cicada ant http://farm4.staticflickr.com/3087/3189595473_67caec8323_o.jpg
@@ -57,14 +65,15 @@ katydid moss http://bp.uuuploads.com/animal-camouflage/animal-camouflage-24.jpg
 bird snow http://www.thedovecotespot.com/USERIMAGES/Dove%20snow%203.JPG
 rabbit snow http://www.robdicaterino.com/art/photos/rabbit-snow-after-575x383.jpg
 fox snow http://cdn.animals-zone.com/wp-content/uploads/2011/01/arctic-fox-1.jpg
+leopard snow http://upload.wikimedia.org/wikipedia/commons/a/a7/Uncia_uncia.jpg
 fox grass http://csvoss.scripts.mit.edu/thingsmimickingotherthings/big_foxgrass.jpg
 rabbit grass http://farm2.static.flickr.com/1073/823909387_71ca463119.jpg
-orchid bee http://upload.wikimedia.org/wikipedia/commons/4/48/OphrysApifera.jpg
 spider flower http://www.backyardnature.net/pix/crabspid.jpg
 beetle flower http://www.photomacrography.net/forum/userpix/1112_FlowerInsectS_1.jpg
 beetle wasp http://csvoss.scripts.mit.edu/thingsmimickingotherthings/big_waspbeetle.jpg
 butterfly cow http://budak.blogs.com/the_annotated_budak/images/cowsai_butt.jpg
 slug cow http://25.media.tumblr.com/a87bca54620bc6b29458bd98f66e024a/tumblr_mynjsv2NRf1s3yrubo1_500.jpg
+cat cow http://farm5.static.flickr.com/4023/4238268560_22baa4f6cd.jpg
 butterfly eyespot http://www.magicoflife.org/butterfly_photos/Caligo_memnon_side.jpg
 fly wasp http://www.wildliferanger.co.uk/users/www.wildliferanger.co.uk/upload/AB1%20Hover%20Fly%20Wasp%20Mimic%20001%20264.JPG
 frog moss http://31.media.tumblr.com/7c8225331b59f05fc31ebdc54633578b/tumblr_mtqpwx5fFT1s3yrubo1_1280.jpg
@@ -89,3 +98,5 @@ fish eyespot http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Chaetodon_
 serval eyespot http://upload.wikimedia.org/wikipedia/en/thumb/b/be/Serval_from_back.jpg/320px-Serval_from_back.jpg
 mantis eyespot http://csvoss.scripts.mit.edu/thingsmimickingotherthings/big_eyespotmantis.jpg
 fly ant http://www.thenational.ae/storyimage/AB/20120728/ARTICLE/307289980/AR/0/AR-307289980.jpg
+beetle light http://upload.wikimedia.org/wikipedia/commons/8/81/Photinus_pyralis_Firefly_2.jpg Photinus pyralis
+beetle wasp http://upload.wikimedia.org/wikipedia/commons/6/65/Gemeiner_Widderbock_4483.JPG Clytus arietis

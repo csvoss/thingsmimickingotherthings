@@ -1,53 +1,56 @@
-moth http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Emperor_Gum_Moth.jpg/200px-Emperor_Gum_Moth.jpg
-spider http://cisr.ucr.edu/images/brown_widow_spider_large.jpg
-ant http://blog.edgepestcontrol.com/wp-content/uploads/2011/12/little_black_ant_3.jpg
-wasp http://www.theinformationarchives.com/wasp/images/3_wasp-0071.jpg
-toad http://www.und.nodak.edu/org/ndwild/pics/toad3.GIF
+moth http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Emperor_Gum_Moth.jpg/200px-Emperor_Gum_Moth.jpg Heterocera
+spider http://cisr.ucr.edu/images/brown_widow_spider_large.jpg Araneae
+ant http://blog.edgepestcontrol.com/wp-content/uploads/2011/12/little_black_ant_3.jpg Formicidae
+wasp http://www.theinformationarchives.com/wasp/images/3_wasp-0071.jpg Vespoidea
+toad http://www.und.nodak.edu/org/ndwild/pics/toad3.GIF Anura
 leaf http://upload.wikimedia.org/wikipedia/commons/f/f4/Leaf_1_web.jpg
-phasmid http://25.media.tumblr.com/tumblr_m2ekiivpSp1r0csyqo1_500.jpg
+phasmid http://25.media.tumblr.com/tumblr_m2ekiivpSp1r0csyqo1_500.jpg Phasmatodea
 stick http://ladybugcouture.files.wordpress.com/2009/05/manzanita-branch1.jpg
-orchid http://www.sonoma-glenellenmkt.com/home/sonomamarket/.blogs/post2700/Orchid.jpg
-mantis http://1.bp.blogspot.com/_Br1rQvAweME/TCOCqNyDq2I/AAAAAAAAABQ/jhgu9Oo7wDc/s1600/Praying+Mantis.jpg
-owl http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Athene_noctua_(cropped).jpg/220px-Athene_noctua_(cropped).jpg
-katydid http://4.bp.blogspot.com/_gp_8G2X1HG4/TDXqRpfG1-I/AAAAAAAABBI/54dke8KSP5I/s1600/katydid.jpg
-snake http://www.worldofballpythons.com/files/morphs/mojave/001.jpg
-coral-snake http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coral_009.jpg/270px-Coral_009.jpg
-fly http://upload.wikimedia.org/wikipedia/commons/4/4c/Drosophila_melanogaster_-_side_%28aka%29.jpg
-flower https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rosa_arvensis_1.jpg/200px-Rosa_arvensis_1.jpg
+orchid http://www.sonoma-glenellenmkt.com/home/sonomamarket/.blogs/post2700/Orchid.jpg Orchidaceae
+mantis http://1.bp.blogspot.com/_Br1rQvAweME/TCOCqNyDq2I/AAAAAAAAABQ/jhgu9Oo7wDc/s1600/Praying+Mantis.jpg Mantodea
+owl http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Athene_noctua_(cropped).jpg/220px-Athene_noctua_(cropped).jpg Strigiformes
+katydid http://4.bp.blogspot.com/_gp_8G2X1HG4/TDXqRpfG1-I/AAAAAAAABBI/54dke8KSP5I/s1600/katydid.jpg Tettigoniidae
+snake http://www.worldofballpythons.com/files/morphs/mojave/001.jpg Serpentes
+coral-snake http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coral_009.jpg/270px-Coral_009.jpg Elapidae
+fly http://upload.wikimedia.org/wikipedia/commons/4/4c/Drosophila_melanogaster_-_side_%28aka%29.jpg Drosophila melanogaster
+flower https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rosa_arvensis_1.jpg/200px-Rosa_arvensis_1.jpg Magnoliophyta
 dead-leaf http://www.lifegoggles.com/files/dead_leaf2_sm1.jpg
-tiger http://assets.worldwildlife.org/photos/2090/images/hero_small/Sumatran-Tiger-Hero.jpg
-grass http://static.giantbomb.com/uploads/original/0/216/198787-grass_by_conformity.jpg
-gecko http://www.doc.govt.nz/pagefiles/2832/wstlnd-green-gecko-351.jpg
-bark http://blogs.bgsu.edu/artc311nday/files//2008/09/33_02_73-tree-bark-texture_web.jpg
+tiger http://assets.worldwildlife.org/photos/2090/images/hero_small/Sumatran-Tiger-Hero.jpg Panthera tigris
+grass http://static.giantbomb.com/uploads/original/0/216/198787-grass_by_conformity.jpg Poaceae
+gecko http://www.doc.govt.nz/pagefiles/2832/wstlnd-green-gecko-351.jpg Gekkota
+bark http://blogs.bgsu.edu/artc311nday/files//2008/09/33_02_73-tree-bark-texture_web.jpg Barkus barkus
 sand http://2.bp.blogspot.com/-90F-eRXuGbk/Ti2PuoybKcI/AAAAAAAAAyA/A_j4-_2_1W4/s1600/sand1%255B1%255D.jpg
-flounder http://4.bp.blogspot.com/-itH6HjTlUTA/TWW9g7y6YSI/AAAAAAAABC0/AQ2wMzxYjBo/s1600/flounder-600.jpg
-lion http://images.nationalgeographic.com/wpf/media-live/photos/000/004/cache/african-lion-male_436_600x450.jpg
-cicada http://static.ddmcdn.com/gif/cicada-sam.jpg 
-coral http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/PillarCoral.jpg/200px-PillarCoral.jpg
-bird http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Monticola_gularis_male_non-breeding_-_Khao_Yai.jpg/220px-Monticola_gularis_male_non-breeding_-_Khao_Yai.jpg
-caterpillar http://www.jigzone.com/p/jz/cbnw/Caterpillar.jpg
-seahorse http://petsbunch.com/wp-content/uploads/2013/12/sea-horse-photo-76.jpg
-bee http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/7/30/1280511847507/A-Bumblebee-007.jpg
-kelp http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rockfish_around_kelp_Monterey_Bay_Aquarium.jpg/360px-Rockfish_around_kelp_Monterey_Bay_Aquarium.jpg
-crab http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gecarcinus_quadratus_%28Nosara%29.jpg/320px-Gecarcinus_quadratus_%28Nosara%29.jpg
-lizard http://nonprofitchapin.files.wordpress.com/2011/12/lizard_display.jpg
-moss http://static.ddmcdn.com/gif/irish-moss-1.jpg
-fox http://www.state.nj.us/dep/fgw/images/wildlife/fox_gl.jpg
+flounder http://4.bp.blogspot.com/-itH6HjTlUTA/TWW9g7y6YSI/AAAAAAAABC0/AQ2wMzxYjBo/s1600/flounder-600.jpg Pleuronectoidei
+lion http://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg Panthera leo
+cicada http://upload.wikimedia.org/wikipedia/commons/f/fb/Tibicen_linnei.jpg Cicadidae
+coral http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/PillarCoral.jpg/200px-PillarCoral.jpg Anthozoa
+bird http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Monticola_gularis_male_non-breeding_-_Khao_Yai.jpg/220px-Monticola_gularis_male_non-breeding_-_Khao_Yai.jpg Aves
+caterpillar http://upload.wikimedia.org/wikipedia/commons/3/3d/Pasture_day_moth_caterpillar_closeup.jpg Lepidoptera (larva)
+seahorse http://upload.wikimedia.org/wikipedia/commons/d/d8/Hippocampus_elongatus.jpg Hippocampus
+bee http://upload.wikimedia.org/wikipedia/commons/a/a6/Honey_Bee_takes_Nectar.JPG Anthophila
+kelp http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rockfish_around_kelp_Monterey_Bay_Aquarium.jpg/360px-Rockfish_around_kelp_Monterey_Bay_Aquarium.jpg Phaeophyceae
+crab http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gecarcinus_quadratus_%28Nosara%29.jpg/320px-Gecarcinus_quadratus_%28Nosara%29.jpg Brachyura
+lizard http://upload.wikimedia.org/wikipedia/commons/b/b8/Lizard%401.jpg Squamata
+moss http://upload.wikimedia.org/wikipedia/commons/f/f8/Tionesta-ac-moss2.jpg Bryophyta
+fox http://upload.wikimedia.org/wikipedia/commons/c/c8/R%C3%A4v_vid_Revhusen_i_Ystad_-_Juli_2012..jpg Vulpes
 snow http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Snow_on_the_mountains_of_Southern_California.jpg/640px-Snow_on_the_mountains_of_Southern_California.jpg
-rabbit http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rabbit_in_montana.jpg/540px-Rabbit_in_montana.jpg
-beetle http://blogs.democratandchronicle.com/birds/files/2011/08/burgsafbeetlecolorheadon.jpg
-cow http://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg
-slug http://www.woollygreen.com/wp-content/uploads/2012/06/slug_4823.jpg
-butterfly http://www.problogger.net/wp-content/uploads/2008/03/mimicry.jpg
-frog http://upload.wikimedia.org/wikipedia/commons/b/be/Red_eyed_tree_frog_edit2.jpg
-octopus http://img.wonderhowto.com/img/77/54/63429758066884/0/octopus-conundrum-octopuses-vs-octopi-vs-octopodes.w654.jpg
-sea-snake http://bogleech.com/nature/ceph-mimicsnake2.jpg
-lionfish http://1.media.tumblr.com/tumblr_ktmlebNKzM1qza3qwo1_400.jpg
-stingray http://4.bp.blogspot.com/_Qe1wgxDiEdU/THOCnt5clgI/AAAAAAAABxk/Wy923YaamS0/s1600/Atlantic%2BStingray%2B100.jpg
-lobster http://img.21food.com/20110609/product/1305085472156.jpg
-scorpion http://www.medtogo.com/assets/images/scorpion.jpg
-cuttlefish http://31.media.tumblr.com/tumblr_lf5uii5reJ1qe6e6jo1_1280.jpg
+rabbit http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rabbit_in_montana.jpg/540px-Rabbit_in_montana.jpg Lagomorpha
+beetle http://upload.wikimedia.org/wikipedia/commons/0/0e/Dynastes_hercules_ecuatorianus_MHNT.jpg Coleoptera
+cow http://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg Bos taurus
+slug http://www.woollygreen.com/wp-content/uploads/2012/06/slug_4823.jpg Gastropoda
+butterfly http://upload.wikimedia.org/wikipedia/commons/4/4b/Siproeta_epaphus_Galawebdesign.jpg Rhopalocera
+frog http://upload.wikimedia.org/wikipedia/commons/b/be/Red_eyed_tree_frog_edit2.jpg Anura
+octopus http://upload.wikimedia.org/wikipedia/commons/5/57/Octopus2.jpg Octopoda
+sea-snake http://upload.wikimedia.org/wikipedia/commons/0/01/Laticauda_colubrina_%28Wakatobi%29.jpg Hydrophiinae
+lionfish http://upload.wikimedia.org/wikipedia/commons/3/36/MC_Rotfeuerfisch.jpg Pteroniae
+stingray http://upload.wikimedia.org/wikipedia/commons/0/01/Stingray_Ctiy%2C_Grand_Cayman.jpg Myliobatiformes
+lobster http://upload.wikimedia.org/wikipedia/commons/0/0b/KreeftbijDenOsse.jpg Nephropidae
+scorpion http://upload.wikimedia.org/wikipedia/commons/8/8d/Asian_forest_scorpion_in_Khao_Yai_National_Park.JPG Scorpiones
+cuttlefish http://lookatthatfuckingcuttlefish.files.wordpress.com/2011/04/baby_cuttlefish_by_mentaldstruction.jpg Sepiida
 forest-floor http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Forest-floor076.jpg/640px-Forest-floor076.jpg
 eyespot http://cdn.c.photoshelter.com/img-get/I0000nW7OvrmJN.Y/s/880/880/AH-Owl-Butterfly-Eyespot-7055.jpg
-fish http://static.ddmcdn.com/gif/10-aquarium-fish-for-every-budget-pictures1.jpg
-serval http://media-1.web.britannica.com/eb-media/27/9427-004-0C4754A2.jpg
+fish http://upload.wikimedia.org/wikipedia/commons/2/23/Georgia_Aquarium_-_Giant_Grouper_edit.jpg Actinopterygii
+serval http://upload.wikimedia.org/wikipedia/commons/0/06/WhiteServalPharaoh.jpg Leptailurus serval
+cat http://upload.wikimedia.org/wikipedia/commons/b/bb/Kittyply_edit1.jpg Felis catus
+leopard http://upload.wikimedia.org/wikipedia/commons/a/a6/Leopard_standing_in_tree_2.jpg Panthera pardus
+light http://upload.wikimedia.org/wikipedia/commons/6/6e/The_sun1.jpg
