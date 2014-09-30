@@ -166,16 +166,16 @@ for line in filein:
         writeln("pictionary = " + json.dumps(jsonout) + ";")
 
     elif line.strip() == "//PRELOADER":
-        for node, url in node_urls:
-            writeln("<img src=\""+toenailify(node, url)+"\" width=\"1\" height=\"1\" />")
-        for link, url in link_urls:
-            writeln("<img src=\""+toenailify(token(link), url)+"\" width=\"1\" height=\"1\" />")
+        for node, url in node_urls.items():
+            writeln("<div id=\"preload_"+node+"\" width=\"1\" height=\"1\" />")
+        for link, url in link_urls.items():
+            writeln("<div id=\"preload_"+token(link)+"\" width=\"1\" height=\"1\" />")
 
     elif line.strip() == "//PRELOADER_JS":
         for node, url in node_urls.items():
-            writeln("document.getElementById(\"preloader\").style.background = \"url("+toenailify(node, url)+") no-repeat -9999px -9999px\";")
+            writeln("document.getElementById(\"preload_"+node+"\").style.background = \"url("+toenailify(node, url)+") no-repeat -9999px -9999px\";")
         for link, url in link_urls.items():
-            writeln("document.getElementById(\"preloader\").style.background = \"url("+toenailify(token(link), url)+") no-repeat -9999px -9999px\";")
+            writeln("document.getElementById(\"preload_"+token(link)+"\").style.background = \"url("+toenailify(token(link), url)+") no-repeat -9999px -9999px\";")
 
     else:
         write(line)
