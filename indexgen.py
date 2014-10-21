@@ -93,12 +93,15 @@ def toenailify(name, url):
         pass
     debug = True
     WIDTH = 300
+    MAXHEIGHT = 330
     if debug:
         print url
     infile = cStringIO.StringIO(urllib.urlopen(url).read())
     img = Image.open(infile)
     im = img.copy()
     im = im.resize((WIDTH, WIDTH*im.size[1]/im.size[0]), Image.ANTIALIAS)
+    if im.size[1] > MAXHEIGHT:
+        im = im.crop((0, (im.size[1]-MAXHEIGHT)/2, WIDTH, (im.size[1]+MAXHEIGHT)/2))
     if im.mode != "RGB":
         im = im.convert("RGB")
     im.save(outfilename)

@@ -14,11 +14,10 @@ snake http://www.worldofballpythons.com/files/morphs/mojave/001.jpg Serpentes
 coral-snake http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coral_009.jpg/270px-Coral_009.jpg Elapidae
 fly http://upload.wikimedia.org/wikipedia/commons/4/4c/Drosophila_melanogaster_-_side_%28aka%29.jpg Drosophila melanogaster
 flower https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rosa_arvensis_1.jpg/200px-Rosa_arvensis_1.jpg Magnoliophyta
-dead-leaf http://www.lifegoggles.com/files/dead_leaf2_sm1.jpg
 tiger http://assets.worldwildlife.org/photos/2090/images/hero_small/Sumatran-Tiger-Hero.jpg Panthera tigris
 grass http://static.giantbomb.com/uploads/original/0/216/198787-grass_by_conformity.jpg Poaceae
 gecko http://www.doc.govt.nz/pagefiles/2832/wstlnd-green-gecko-351.jpg Gekkota
-bark http://blogs.bgsu.edu/artc311nday/files//2008/09/33_02_73-tree-bark-texture_web.jpg Barkus barkus
+bark http://blogs.bgsu.edu/artc311nday/files//2008/09/33_02_73-tree-bark-texture_web.jpg
 sand http://2.bp.blogspot.com/-90F-eRXuGbk/Ti2PuoybKcI/AAAAAAAAAyA/A_j4-_2_1W4/s1600/sand1%255B1%255D.jpg
 flounder http://4.bp.blogspot.com/-itH6HjTlUTA/TWW9g7y6YSI/AAAAAAAABC0/AQ2wMzxYjBo/s1600/flounder-600.jpg Pleuronectoidei
 lion http://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg Panthera leo
@@ -47,10 +46,14 @@ stingray http://upload.wikimedia.org/wikipedia/commons/0/01/Stingray_Ctiy%2C_Gra
 lobster http://upload.wikimedia.org/wikipedia/commons/0/0b/KreeftbijDenOsse.jpg Nephropidae
 scorpion http://upload.wikimedia.org/wikipedia/commons/8/8d/Asian_forest_scorpion_in_Khao_Yai_National_Park.JPG Scorpiones
 cuttlefish http://lookatthatfuckingcuttlefish.files.wordpress.com/2011/04/baby_cuttlefish_by_mentaldstruction.jpg Sepiida
-forest-floor http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Forest-floor076.jpg/640px-Forest-floor076.jpg
+dead-leaf http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Forest-floor076.jpg/640px-Forest-floor076.jpg
 eyespot http://cdn.c.photoshelter.com/img-get/I0000nW7OvrmJN.Y/s/880/880/AH-Owl-Butterfly-Eyespot-7055.jpg
 fish http://upload.wikimedia.org/wikipedia/commons/2/23/Georgia_Aquarium_-_Giant_Grouper_edit.jpg Actinopterygii
 serval http://upload.wikimedia.org/wikipedia/commons/0/06/WhiteServalPharaoh.jpg Leptailurus serval
 cat http://upload.wikimedia.org/wikipedia/commons/b/bb/Kittyply_edit1.jpg Felis catus
 leopard http://upload.wikimedia.org/wikipedia/commons/a/a6/Leopard_standing_in_tree_2.jpg Panthera pardus
-light http://upload.wikimedia.org/wikipedia/commons/6/6e/The_sun1.jpg
+bioluminescence https://upload.wikimedia.org/wikipedia/en/8/80/Glowing_tobacco_plant.jpg
+bear http://upload.wikimedia.org/wikipedia/commons/d/d9/Ober-gatlinburg-black-bear-tn2.jpg Ursidae
+seal http://upload.wikimedia.org/wikipedia/commons/7/7d/Seehund.jpg Pinnipedia
+iridescence https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wismut_Kristall_und_1cm3_Wuerfel.jpg/640px-Wismut_Kristall_und_1cm3_Wuerfel.jpg
+abalone https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ass%E2%80%99s_ear_abalone_%28Haliotis_asinina%29_S01.jpg/640px-Ass%E2%80%99s_ear_abalone_%28Haliotis_asinina%29_S01.jpg Haliotis
